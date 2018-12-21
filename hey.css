@@ -1,0 +1,14 @@
+.back-image{
+background-size:cover;
+background-position: center;
+background-repeat:no-repeat;
+min-height:90vh;
+border-radius:0px;
+
+}
+a{
+	color:#ffe6e6;
+}
+a.hover{
+	color:#ff1a75;
+}
